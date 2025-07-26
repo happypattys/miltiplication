@@ -1,7 +1,7 @@
 public class table {
 
     public static void main(String[] args) {
-        System.out.println("--- 10x10 Multiplication Table ---");
+        System.out.println("10x10 Multiplication Table");
         System.out.println(); 
 
         
